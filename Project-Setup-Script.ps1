@@ -1,6 +1,6 @@
-Write-Host "====================="
-Write-Host "= New GitHub Project="
-Write-Host "====================="
+# "====================="
+# "= New GitHub Project="
+# "====================="
 
 Set-Location -Path C:\Config\Projects -PassThru
 
