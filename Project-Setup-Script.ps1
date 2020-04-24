@@ -1,6 +1,6 @@
-# "====================="
-# "= New GitHub Project="
-# "====================="
+# "======================"
+# "= New GitHub Project ="
+# "======================"
 
 Set-Location -Path C:\Config\Projects -PassThru
 
