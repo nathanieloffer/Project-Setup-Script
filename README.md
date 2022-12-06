@@ -1,2 +1,3 @@
 # Project-Setup-Script
-PowerShell script to setup and initialize a new project
+
+Using PowerShell to perform initial setup of a new project on my local machine
